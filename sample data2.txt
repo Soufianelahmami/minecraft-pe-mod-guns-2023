@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"As of 2023, Minecraft PE mods have become increasingly popular among players looking to add new elements to their game. Among these mods, gun mods have gained a lot of attention and popularity among Minecraft players.","photo":"https://iili.io/HvEhDua.jpg"},
+  {"title":"advance mod 2","desc":"By 2023, gamers wishing to change up their games' content were increasingly turning to Minecraft PE mods. Gun mods are one of them that have attracted a lot of interest and are quite well-liked by Minecraft gamers.","photo":"https://iili.io/HvEhZyg.jpg"},
+  {"title":"tips pack 3","desc":" With the addition of guns, players can experience a new level of gameplay, offering a unique and exciting experience.","photo":"https://iili.io/HvEhbwJ.jpg"},
+  {"title":"helper mod 4","desc":"Players can enjoy a new level of gaming with the addition of firearms, providing a distinctive and thrilling experience.","photo":"https://iili.io/HvEhQ8F.jpg"},
+  {"title":"advice pack 5","desc":"One of the most popular Minecraft PE gun mods is the Guns Mod, which introduces a wide range of firearms to the game. With this mod, players can now equip themselves with weapons like pistols,","photo":"https://iili.io/HvEhmZv.jpg"},
+  {"title":"how to use this app 6","desc":"The Guns Mod, which adds a variety of weapons to the game, is one of the most well-liked Minecraft PE gun mods. Players can now arm themselves with firearms like handguns thanks to this modification.","photo":"https://iili.io/HvEhynR.png"},
+  {"title":"tips mod 7","desc":" shotguns, assault rifles, and even sniper rifles. The Guns Mod also introduces new ammunition types, such as explosive rounds and armor-piercing bullets, which allow players to take on tougher enemies and bosses.","photo":"https://iili.io/HvEjH6N.jpg"},
+  {"title":"advance pack 8","desc":"sniper rifles, assault rifles, and even shotguns. The Guns Mod also adds new kinds of ammo, like explosive rounds and shots that can penetrate armor, enabling players to fight tougher adversaries and bosses.","photo":"https://iili.io/HvEj9Gp.jpg"}
 
    ]
  
